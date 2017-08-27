@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taosheng Xu on Taosheng Xu</title>
-    <link>/</link>
+    <link>https://taoshengxu.github.io/</link>
     <description>Recent content in Taosheng Xu on Taosheng Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>[R package]miRBaseConverter: A comprehensive and high-efficiency tool for converting and retrieving the information of miRNAs in different miRBase versions</title>
-      <link>/publication/mirbaseconverter_package/</link>
+      <link>https://taoshengxu.github.io/publication/mirbaseconverter_package/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mirbaseconverter_package/</guid>
+      <guid>https://taoshengxu.github.io/publication/mirbaseconverter_package/</guid>
       <description>&lt;p&gt;&lt;code&gt;miRBaseConverter&lt;/code&gt; is an R/Bioconductor package for converting and retrieving the definition of miRNAs ( Names, Accessions, Sequences, Families and others) in different miRBase versions ( From miRBase version 6 to version 21 [ The latest version ] ). A tiny built-in database is embedded in the &lt;code&gt;miRBaseConverter&lt;/code&gt; R package for retrieving miRNA information efficiently.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CancerSubtypes: an R/Bioconductor package for molecular cancer subtype identification, validation and visualization</title>
-      <link>/publication/cancersubtypes_paper/</link>
+      <link>https://taoshengxu.github.io/publication/cancersubtypes_paper/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cancersubtypes_paper/</guid>
+      <guid>https://taoshengxu.github.io/publication/cancersubtypes_paper/</guid>
       <description>&lt;!-- url_code = &#34;#&#34;
 url_dataset = &#34;#&#34;
 url_pdf = &#34;#&#34;
@@ -43,20 +43,20 @@ caption = &#34;CancerSubtypesFramework&#34;
     
     <item>
       <title>[R package]CancerSubtypes: Cancer subtypes identification, validation and visualization based on genomic data</title>
-      <link>/publication/cancersubtypes_package/</link>
+      <link>https://taoshengxu.github.io/publication/cancersubtypes_package/</link>
       <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cancersubtypes_package/</guid>
+      <guid>https://taoshengxu.github.io/publication/cancersubtypes_package/</guid>
       <description>&lt;p&gt;The R/Bioconductor package &lt;code&gt;CancerSubtypes&lt;/code&gt; integrates the current common computational biology methods for cancer subtypes identification and provides a standardized framework for cancer subtype analysis based multi-omics data, such as gene expression, miRNA expression, DNA methylation and others.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Identifying Cancer Subtypes from miRNA-TF-mRNA Regulatory Networks and Expression Data</title>
-      <link>/publication/mirtfmrna_paper/</link>
+      <link>https://taoshengxu.github.io/publication/mirtfmrna_paper/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mirtfmrna_paper/</guid>
+      <guid>https://taoshengxu.github.io/publication/mirtfmrna_paper/</guid>
       <description>&lt;!--url_project = &#34;&#34;
 url_code = &#34;&#34;
 url_slides = &#34;&#34;

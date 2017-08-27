@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Taosheng Xu</title>
-    <link>/publication_types/2/</link>
+    <link>https://taoshengxu.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Taosheng Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>CancerSubtypes: an R/Bioconductor package for molecular cancer subtype identification, validation and visualization</title>
-      <link>/publication/cancersubtypes_paper/</link>
+      <link>https://taoshengxu.github.io/publication/cancersubtypes_paper/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cancersubtypes_paper/</guid>
+      <guid>https://taoshengxu.github.io/publication/cancersubtypes_paper/</guid>
       <description>&lt;!-- url_code = &#34;#&#34;
 url_dataset = &#34;#&#34;
 url_pdf = &#34;#&#34;
@@ -33,10 +33,10 @@ caption = &#34;CancerSubtypesFramework&#34;
     
     <item>
       <title>Identifying Cancer Subtypes from miRNA-TF-mRNA Regulatory Networks and Expression Data</title>
-      <link>/publication/mirtfmrna_paper/</link>
+      <link>https://taoshengxu.github.io/publication/mirtfmrna_paper/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mirtfmrna_paper/</guid>
+      <guid>https://taoshengxu.github.io/publication/mirtfmrna_paper/</guid>
       <description>&lt;!--url_project = &#34;&#34;
 url_code = &#34;&#34;
 url_slides = &#34;&#34;
