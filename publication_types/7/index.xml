@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Taosheng Xu</copyright>
     <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/7/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://taoshengxu.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>[R package]miRBaseConverter: A comprehensive and high-efficiency tool for converting and retrieving the information of miRNAs in different miRBase versions</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://taoshengxu.github.io/publication/mirbaseconverter_package/</guid>
-      <description>&lt;p&gt;&lt;code&gt;miRBaseConverter&lt;/code&gt; is an R/Bioconductor package for converting and retrieving the definition of miRNAs ( Names, Accessions, Sequences, Families and others) in different miRBase versions ( From miRBase version 6 to version 21 [ The latest version ] ). A tiny built-in database is embedded in the &lt;code&gt;miRBaseConverter&lt;/code&gt; R package for retrieving miRNA information efficiently.&lt;/p&gt;
-</description>
+      <description>miRBaseConverter is an R/Bioconductor package for converting and retrieving the definition of miRNAs ( Names, Accessions, Sequences, Families and others) in different miRBase versions ( From miRBase version 6 to version 21 [ The latest version ] ). A tiny built-in database is embedded in the miRBaseConverter R package for retrieving miRNA information efficiently.</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://taoshengxu.github.io/publication/cancersubtypes_package/</guid>
-      <description>&lt;p&gt;The R/Bioconductor package &lt;code&gt;CancerSubtypes&lt;/code&gt; integrates the current common computational biology methods for cancer subtypes identification and provides a standardized framework for cancer subtype analysis based multi-omics data, such as gene expression, miRNA expression, DNA methylation and others.&lt;/p&gt;
-</description>
+      <description>The R/Bioconductor package CancerSubtypes integrates the current common computational biology methods for cancer subtypes identification and provides a standardized framework for cancer subtype analysis based multi-omics data, such as gene expression, miRNA expression, DNA methylation and others.</description>
     </item>
     
   </channel>

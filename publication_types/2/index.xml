@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Taosheng Xu</copyright>
     <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://taoshengxu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>CancerSubtypes: an R/Bioconductor package for molecular cancer subtype identification, validation and visualization</title>
@@ -16,19 +18,7 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://taoshengxu.github.io/publication/cancersubtypes_paper/</guid>
-      <description>&lt;!-- url_code = &#34;#&#34;
-url_dataset = &#34;#&#34;
-url_pdf = &#34;#&#34;
-url_project = &#34;#&#34;
-url_slides = &#34;#&#34;
-#url_video = &#34;#&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;CancerSubtypes_Framework.jpg&#34;
-caption = &#34;CancerSubtypesFramework&#34;
---&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -37,11 +27,7 @@ caption = &#34;CancerSubtypesFramework&#34;
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://taoshengxu.github.io/publication/mirtfmrna_paper/</guid>
-      <description>&lt;!--url_project = &#34;&#34;
-url_code = &#34;&#34;
-url_slides = &#34;&#34;
-url_video = &#34;&#34;--&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
