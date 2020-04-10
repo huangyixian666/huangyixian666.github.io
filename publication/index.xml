@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>miRBaseConverter: an R/Bioconductor package for converting and retrieving miRNA name, accession, sequence and family information in different versions of miRBase</title>
+      <link>https://taoshengxu.github.io/publication/mirbaseconverter_paper/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://taoshengxu.github.io/publication/mirbaseconverter_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[R package]miRBaseConverter: A comprehensive and high-efficiency tool for converting and retrieving the information of miRNAs in different miRBase versions</title>
       <link>https://taoshengxu.github.io/publication/mirbaseconverter_package/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>

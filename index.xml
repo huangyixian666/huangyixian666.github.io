@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>miRBaseConverter: an R/Bioconductor package for converting and retrieving miRNA name, accession, sequence and family information in different versions of miRBase</title>
+      <link>https://taoshengxu.github.io/publication/mirbaseconverter_paper/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://taoshengxu.github.io/publication/mirbaseconverter_paper/</guid>
+      <description>&lt;!-- url_code = &#34;#&#34;
+url_dataset = &#34;#&#34;
+url_pdf = &#34;#&#34;
+url_project = &#34;#&#34;
+url_slides = &#34;#&#34;
+#url_video = &#34;#&#34;
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = &#34;CancerSubtypes_Framework.jpg&#34;
+caption = &#34;CancerSubtypesFramework&#34;
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[R package]miRBaseConverter: A comprehensive and high-efficiency tool for converting and retrieving the information of miRNAs in different miRBase versions</title>
       <link>https://taoshengxu.github.io/publication/mirbaseconverter_package/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
