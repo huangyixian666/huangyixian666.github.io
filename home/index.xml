@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Taosheng Xu</title>
-    <link>https://taoshengxu.github.io/home/</link>
-    <description>Recent content in Homes on Taosheng Xu</description>
+    <title>Homes on Yixian Huang</title>
+    <link>https://huangyixian666.github.io/home/</link>
+    <description>Recent content in Homes on Yixian Huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2020 Taosheng Xu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://taoshengxu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huangyixian666.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://taoshengxu.github.io/home/about/</link>
+      <link>https://huangyixian666.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://taoshengxu.github.io/home/about/</guid>
+      <guid>https://huangyixian666.github.io/home/about/</guid>
       <description>Dr. Taosheng Xu is currently a Postdoctoral Research Fellow at the Arieh Warshel Institute for Computational Biology, The Chinese University of Hong Kong, Shenzhen (CUHKSZ). He is also an Assistant Professor at Institute of Intelligent Machines, Hefei Institutes of Physical Science, Chinese Academy of Sciences ( CAS ) since Nov 2016. He received his PhD degree in Pattern Recognition and Intelligent System from University of Science and Technology of China(USTC). He was a visiting scholar in the University of South Australia（UniSA） from Jan 2015 to Feb 2016.</description>
     </item>
     
