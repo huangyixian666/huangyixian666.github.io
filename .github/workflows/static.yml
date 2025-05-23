@@ -36,6 +36,12 @@ jobs:
         uses: actions/upload-pages-artifact@v1
       - name: Upload artifact2
         uses: actions/upload-artifact@v4
+      - name: Upload artifact1
+        uses: actions/upload-artifact@v3
+      - name: Upload artifact3
+        uses: actions/upload-artifact@v1
+      - name: Upload artifact4
+        uses: actions/upload-artifact@v2
         with:
           # Upload entire repository
           path: '.'
