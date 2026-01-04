@@ -3,65 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV | Yixian Huang</title>
-    <!-- 可选：复用原页面样式，保持视觉统一（替换为原页面的CSS链接） -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css">
+    <title>Curriculum Vitae | Yixian Huang</title>
     <style>
-        /* 基础样式：简洁适配PDF预览 */
+        /* 页面基础样式：撑满屏幕 */
         body {
+            margin: 0;
             padding: 20px;
-            font-family: Arial, sans-serif;
             background-color: #f5f5f5;
+            font-family: Arial, sans-serif;
         }
-        .pdf-container {
-            max-width: 1200px;
+        /* PDF容器：最大化显示 */
+        .pdf-wrapper {
+            max-width: 100%;
+            width: 1200px; /* 限制PC端最大宽度，避免过宽 */
             margin: 0 auto;
             background: white;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
-        h1 {
-            margin-bottom: 30px;
+        /* 放大PDF预览区域 */
+        #cv-pdf {
+            width: 100%;
+            height: 90vh; /* 占屏幕高度的90%（自动适配） */
+            border: none;
+        }
+        /* 返回按钮样式 */
+        .back-btn {
+            margin-top: 15px;
+            padding: 8px 16px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
             color: #333;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
         }
-        .pdf-item {
-            margin-bottom: 40px;
+        .back-btn:hover {
+            background: #f0f0f0;
         }
-        /* 响应式适配 */
-        @media (max-width: 768px) {
-            iframe {
-                height: 400px !important;
-            }
+        /* 标题样式 */
+        h1 {
+            margin: 0 0 20px 0;
+            color: #333;
+            font-size: 24px;
         }
     </style>
 </head>
 <body>
-    <div class="pdf-container">
-        <!-- 页面标题 -->
-        <h1>CV</h1>
-
-        <!-- 第一个PDF预览项 -->
-        <div class="pdf-item">
-            <h3>Curriculum Vitae</h3>
-            <p class="text-muted">Updated: January 2026</p>
-            <!-- PDF在线预览核心 -->
-            <iframe 
-                src="./pdf/CV.pdf"  <!-- 替换为你的CV PDF实际路径 -->
-                type="application/pdf" 
-                width="100%" 
-                height="600px"
-                frameborder="0"
-            >
-                您的浏览器不支持PDF预览，请<a href="assets/pdf/your-cv.pdf" target="_blank">点击下载查看</a>
-            </iframe>
-        </div>
-
-  
-        <!-- 可选：返回原页面的按钮 -->
-        <a href="index.html" class="btn btn-default">← Back to Home</a>
+    <div class="pdf-wrapper">
+        <h1>Curriculum Vitae (Updated: January 2026)</h1>
+        <!-- 放大后的PDF预览 -->
+        <iframe 
+            id="cv-pdf"
+            src="./pdf/CV.pdf"  <!-- 替换为你的CV PDF实际路径（如：https://huangyixian666.github.io/assets/pdf/cv.pdf） -->
+            type="application/pdf"
+        >
+            您的浏览器不支持PDF预览，请<a href="assets/pdf/your-cv.pdf" target="_blank">点击下载查看</a>
+        </iframe>
+        <a href="index.html" class="back-btn">← Back to Home</a>
     </div>
 </body>
 </html>
