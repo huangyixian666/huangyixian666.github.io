@@ -1,1 +1,67 @@
-1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IntelliAgri Bio (智农科技)</title>
+    <style>
+        /* 页面基础样式：撑满屏幕 */
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            font-family: Arial, sans-serif;
+        }
+        /* PDF容器：最大化显示 */
+        .pdf-wrapper {
+            max-width: 100%;
+            width: 1200px; /* 限制PC端最大宽度，避免过宽 */
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        /* 放大PDF预览区域 */
+        #cv-pdf {
+            width: 100%;
+            height: 90vh; /* 占屏幕高度的90%（自动适配） */
+            border: none;
+        }
+        /* 返回按钮样式 */
+        .back-btn {
+            margin-top: 15px;
+            padding: 8px 16px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+            color: #333;
+        }
+        .back-btn:hover {
+            background: #f0f0f0;
+        }
+        /* 标题样式 */
+        h1 {
+            margin: 0 0 20px 0;
+            color: #333;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="pdf-wrapper">
+        <h1>IntelliAgri Bio (智农科技) (Updated: 2026/10/26)</h1>
+        <!-- 放大后的PDF预览 -->
+        <iframe 
+            id="IntelliAgri-pdf"
+            src="./pdf/IntelliAgri.pdf"  <!-- 替换为你的CV PDF实际路径（如：https://huangyixian666.github.io/assets/pdf/cv.pdf） -->
+            type="application/pdf"
+        >
+            您的浏览器不支持PDF预览，请<a href="assets/pdf/your-cv.pdf" target="_blank">点击下载查看</a>
+        </iframe>
+        <a href="index.html" class="back-btn">← Back to Home</a>
+    </div>
+</body>
+</html>
